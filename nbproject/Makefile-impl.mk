@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Ese006-SoluzioniEquazioneSecondoGrado
+PROJECTNAME=Ese006
 
 # Active Configuration
 DEFAULTCONF=Debug
